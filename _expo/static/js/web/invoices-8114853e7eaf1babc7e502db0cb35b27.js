@@ -1,0 +1,1 @@
+__d(function(g,r,i,a,m,e,d){"use strict";Object.defineProperty(e,'__esModule',{value:!0}),Object.defineProperty(e,"default",{enumerable:!0,get:function(){return o}});var n=r(d[0]),t=r(d[1]),c=r(d[2]);function o(){return(0,c.jsxs)(c.Fragment,{children:[(0,c.jsx)(n.Stack.Screen,{options:{title:'Invoices'}}),(0,c.jsx)(t.InvoicesScreen,{})]})}},768,[837,840,6]);

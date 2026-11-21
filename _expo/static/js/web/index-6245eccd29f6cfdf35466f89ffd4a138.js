@@ -1,0 +1,1 @@
+__d(function(g,r,i,a,m,e,d){"use strict";Object.defineProperty(e,'__esModule',{value:!0}),Object.defineProperty(e,"default",{enumerable:!0,get:function(){return o}});var t=r(d[0]),n=r(d[1]),c=r(d[2]);function o(){const o=(0,n.useMt)();return(0,c.jsxs)(c.Fragment,{children:[(0,c.jsx)(t.Stack.Screen,{options:{title:o.home}}),(0,c.jsx)(n.ClientHomeScreen,{})]})}},805,[837,849,6]);

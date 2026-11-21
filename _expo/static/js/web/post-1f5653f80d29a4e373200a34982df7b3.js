@@ -1,0 +1,1 @@
+__d(function(g,r,i,a,m,e,d){"use strict";Object.defineProperty(e,'__esModule',{value:!0}),Object.defineProperty(e,"default",{enumerable:!0,get:function(){return s}});var t=r(d[0]),n=r(d[1]),o=r(d[2]);function s(){const s=(0,n.useMt)();return(0,o.jsxs)(o.Fragment,{children:[(0,o.jsx)(t.Stack.Screen,{options:{title:s.postTitle}}),(0,o.jsx)(n.PostJobScreen,{})]})}},808,[837,849,6]);
