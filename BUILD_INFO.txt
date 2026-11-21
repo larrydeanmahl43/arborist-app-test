@@ -1,5 +1,5 @@
-built: Sat Nov 21 08:21:08 UTC 2026
+built: Sat Nov 21 09:22:31 UTC 2026
 base url: /arborist-app-test
 supabase: https://xkbqvrfhfecskbfugmov.supabase.co
 stripe mode: test
-stripe publishable key: not set (payment screens show Setup needed)
+stripe publishable key: set
